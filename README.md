@@ -1,34 +1,10 @@
 <div align="center">
     <a name="Top"></a>
-	<h1>Navigation-Learning：一个本科生的导航学习笔记</h1>
+	<h1>Navigation-Learning：一个本科生的导航学习笔记 <a href='https://github.com/LiZhengXiao99/Navigation-Learning' target='_blank'>原作者</a></h1>
     <p><strong>学习之路漫又长，唯有不断总结，不断回味，不断分享，才能成长！</strong></p>
 </div>
-<div align="center">
-    <img alt="Static Badge" src="https://img.shields.io/badge/QQ-1482275402-red">
-    <img alt="Static Badge" src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-lizhengxiao99-green">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Email-dauger%40126.com-brown">
-    <a href="https://blog.csdn.net/daoge2666/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>
-    <a href="https://www.zhihu.com/people/dao-ge-92-60/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>
-    <img src="https://komarev.com/ghpvc/?username=LiZhengXiao99&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-</div>
-<br/>
 
-<div align="center">
-	<p>👋 嗨，你好，我是李郑骁，安徽理工大学导航工程本科生；</p>
-	<p>⏰ 正准备考研，考上了副标题就改《一个研究生的导航学习笔记》</p>
-	<p>💡 仓库所有内容都可以随意转载，可用于任何目的，无需征求我的意见；</p>
-	<p>✨ 本仓库会长期更新，分享出来，希望有人用得上，也激励着自己坚持学下去；</p>
-	<p>💻 理解尚浅、实践甚少，列举的公式和理论仅供参考，千万不要照着我的公式写代码；</p>
-	<p>🛠 不建议直接就下载整个仓库，Markdown 和 PDF 可以在线看，想要的文件可以<a href='https://zhuanlan.zhihu.com/p/578116206' target='_blank'>单独下载</a>；</p>
-    <p><strong>⚙ 目前仓库还不够完善，部分文件还没啥内容，下载之前，建议先点开看看，有没有您期望的内容；</strong></p>
-	<p>🎉 如果您觉得仓库内容有价值，推荐用 Github-Desktop 下载并保持更新，用 Typora 看 Markdown 文件；</p>
-    <details>
-        <summary>🤺 【点击展开】欢迎随时与我交流：<strong>微信</strong> (lizhengxiao99)、<strong>QQ</strong> (1482275402)、<strong>Email</strong> (dauger@126.com)；</summary>
-		<p>
-			<img align="center" width="350" src="https://pic-bed-1316053657.cos.ap-nanjing.myqcloud.com/img/662bf58e5529e6a138945e9ffc90893e.png" alt="662bf58e5529e6a138945e9ffc90893e" />
-        </p>
-    </details>
-</div>
+<br/>
 
 
 ---
